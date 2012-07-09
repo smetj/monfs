@@ -57,9 +57,8 @@ Mount your filesystem and have a look to your configuration.
 If you need any support please submit a message to the monfs forum at 
 https://groups.google.com/d/forum/monfs
 
-If you have found a bug submit a ticket in GitHub.
+If you have found a bug submit a ticket to:
+https://github.com/smetj/monfs/issues.
 
 
 Have fun!
-
-
